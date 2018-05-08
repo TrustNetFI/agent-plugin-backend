@@ -142,7 +142,7 @@ const onDisconnected = () => {
 }
 ```
 
-Code in Extension side:
+Code in extension side:
 ```code
 chrome.runtime.sendMessage(EXTENSION_ID, MESSAGE}
 ```
