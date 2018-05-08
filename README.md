@@ -62,7 +62,7 @@ Example command:
 ```
 Example response:
 ```json
-"status":"SUCCESS","value":{"loggedout":true}}
+{"status":"SUCCESS","value":{"loggedout":true}}
 ```
 
 
