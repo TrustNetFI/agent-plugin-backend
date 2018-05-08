@@ -1,0 +1,17 @@
+{
+   "name": "TrustNet Demo",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "COmunication with native wallet app",
+  "app": {
+    "launch": {
+      "local_path": "main.html"
+    }
+  },
+  "icons": {
+    "128": "icon-128.png"
+  },
+  "permissions": [
+    "nativeMessaging"
+  ]
+}
