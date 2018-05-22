@@ -5,7 +5,6 @@ import org.hyperledger.indy.sdk.IndyException;
 import fi.trustnet.browserextension.responses.Response;
 
 
-import static com.sun.xml.internal.ws.api.message.Packet.Status.Response;
 import static fi.trustnet.browserextension.App.getJsonValue;
 import static fi.trustnet.browserextension.StatusCodes.ERROR;
 
